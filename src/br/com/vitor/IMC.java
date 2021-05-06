@@ -1,4 +1,4 @@
-package br.com.senai;
+package br.com.vitor;
 
 import java.util.Scanner;
 
