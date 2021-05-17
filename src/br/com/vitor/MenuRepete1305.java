@@ -38,6 +38,7 @@ public class MenuRepete1305 {
 				int valor2;
 				System.out.print("Informe o valor: ");
 				valor2= tec.nextInt();
+				
 				for(int i = 0; i <=10; i++) {  // i = 0, depois define ele como 0 > faz teste lógico > por final faz encremento 
 					System.out.println(valor2 + "x" + i + "=" +(valor2 * i));
 				}
